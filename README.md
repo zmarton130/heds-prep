@@ -1,2 +1,2 @@
 # heds-prep
-Notes, Simulations, and research related to HEDS and plasma physics
+Notes, simulations, and research related to HEDS and plasma physics
